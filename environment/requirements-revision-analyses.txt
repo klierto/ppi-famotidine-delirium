@@ -1,0 +1,8 @@
+# Analyses R16-R18 (r16.py, r16_fmt.py, r16_a16.py, r16_a17.py, r16b.py, r16_dxcheck.py,
+# r17_mult.py, r18.py, r18b.py, r18w.py; they import asd.py, explore_ppi.py, e2_burden.py, r7.py and r10.py-r15.py).
+# Python 3.13.
+duckdb==1.5.4
+numpy==2.3.4
+scipy==1.16.2
+pandas==2.3.3
+scikit-learn==1.7.2

@@ -1,0 +1,9 @@
+# Analyses asd.py, E1, E2 and R7-R15 (asd.py, explore_ppi.py, e2_burden.py, e2_mover.py,
+# r7.py-r15.py, fig_values.py, fig_values_r9.py, fig_curves.py). Python 3.10.
+duckdb==1.5.6
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+pyarrow==25.0.1
+indexed_gzip==1.10.3
+scikit-learn==1.6.1
